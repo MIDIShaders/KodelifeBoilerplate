@@ -2462,3 +2462,292 @@ warmcool,Volcanic Shore,8,0.0000,0.1000,0.2500
 warmcool,Volcanic Shore,9,0.9000,0.2000,0.0000
 warmcool,Volcanic Shore,10,0.3000,0.7000,0.9000
 warmcool,Volcanic Shore,11,0.0000,0.0000,0.0000
+Theme,Palette Name,Color Index,R,G,B
+abstract,Fractal Bloom,0,0.9000,0.2000,0.7000
+abstract,Fractal Bloom,1,0.3000,0.8000,0.4000
+abstract,Fractal Bloom,2,0.1000,0.3000,0.9000
+abstract,Fractal Bloom,3,0.7000,0.9000,0.2000
+abstract,Fractal Bloom,4,0.9500,0.5000,0.3000
+abstract,Fractal Bloom,5,0.2000,0.6000,0.8000
+abstract,Fractal Bloom,6,0.0000,0.0000,0.0000
+abstract,Fractal Bloom,7,1.0000,1.0000,1.0000
+abstract,Fractal Bloom,8,0.8000,0.1000,0.5000
+abstract,Fractal Bloom,9,0.4000,0.9500,0.6000
+abstract,Fractal Bloom,10,0.5000,0.4000,1.0000
+abstract,Fractal Bloom,11,0.6000,0.7000,0.1000
+atmospheric,Twilight Haze,0,0.1500,0.1000,0.2500
+atmospheric,Twilight Haze,1,0.4000,0.3000,0.5000
+atmospheric,Twilight Haze,2,0.7000,0.6000,0.4000
+atmospheric,Twilight Haze,3,0.0500,0.0200,0.1000
+atmospheric,Twilight Haze,4,0.2500,0.2000,0.3500
+atmospheric,Twilight Haze,5,0.5500,0.4500,0.6000
+atmospheric,Twilight Haze,6,0.8000,0.7500,0.5000
+atmospheric,Twilight Haze,7,0.1000,0.0800,0.1800
+atmospheric,Twilight Haze,8,0.3500,0.2800,0.4200
+atmospheric,Twilight Haze,9,0.6500,0.5500,0.6800
+atmospheric,Twilight Haze,10,0.9000,0.8500,0.6500
+atmospheric,Twilight Haze,11,0.0000,0.0000,0.0300
+botanical,Nightshade Garden,0,0.1000,0.0000,0.1500
+botanical,Nightshade Garden,1,0.3000,0.0500,0.4000
+botanical,Nightshade Garden,2,0.0500,0.2000,0.1000
+botanical,Nightshade Garden,3,0.5000,0.1000,0.6000
+botanical,Nightshade Garden,4,0.0200,0.0100,0.0500
+botanical,Nightshade Garden,5,0.2000,0.3500,0.2000
+botanical,Nightshade Garden,6,0.4000,0.0000,0.2500
+botanical,Nightshade Garden,7,0.1500,0.2500,0.5000
+botanical,Nightshade Garden,8,0.0000,0.1000,0.0200
+botanical,Nightshade Garden,9,0.3500,0.4500,0.3000
+botanical,Nightshade Garden,10,0.2500,0.0200,0.3000
+botanical,Nightshade Garden,11,0.0800,0.1500,0.0800
+celestial,Orion Belt Glow,0,0.0000,0.0200,0.0500
+celestial,Orion Belt Glow,1,0.1000,0.1000,0.3000
+celestial,Orion Belt Glow,2,0.9000,0.8500,0.7000
+celestial,Orion Belt Glow,3,0.0500,0.2000,0.4000
+celestial,Orion Belt Glow,4,0.7000,0.6000,0.4000
+celestial,Orion Belt Glow,5,0.0000,0.0000,0.0100
+celestial,Orion Belt Glow,6,0.2000,0.3000,0.5000
+celestial,Orion Belt Glow,7,1.0000,0.9800,0.9000
+celestial,Orion Belt Glow,8,0.0200,0.0800,0.2000
+celestial,Orion Belt Glow,9,0.8000,0.7500,0.5000
+celestial,Orion Belt Glow,10,0.1500,0.1200,0.3500
+celestial,Orion Belt Glow,11,0.0800,0.0500,0.1500
+cinematic,Western Sunset,0,0.7000,0.3000,0.0000
+cinematic,Western Sunset,1,0.9000,0.5000,0.1000
+cinematic,Western Sunset,2,0.4000,0.1500,0.0000
+cinematic,Western Sunset,3,1.0000,0.8000,0.4000
+cinematic,Western Sunset,4,0.5000,0.2000,0.0500
+cinematic,Western Sunset,5,0.8000,0.4000,0.0000
+cinematic,Western Sunset,6,0.2000,0.0500,0.0000
+cinematic,Western Sunset,7,0.9500,0.6500,0.2000
+cinematic,Western Sunset,8,0.6000,0.2500,0.0200
+cinematic,Western Sunset,9,1.0000,0.9000,0.7000
+cinematic,Western Sunset,10,0.3000,0.1000,0.0000
+cinematic,Western Sunset,11,0.8500,0.4500,0.0800
+cultural,Bohemian Rhapsody,0,0.7000,0.2000,0.4000
+cultural,Bohemian Rhapsody,1,0.9000,0.6000,0.1000
+cultural,Bohemian Rhapsody,2,0.1000,0.4000,0.3000
+cultural,Bohemian Rhapsody,3,0.5000,0.1000,0.2000
+cultural,Bohemian Rhapsody,4,0.9500,0.8000,0.5000
+cultural,Bohemian Rhapsody,5,0.3000,0.5000,0.0500
+cultural,Bohemian Rhapsody,6,0.8000,0.3000,0.6000
+cultural,Bohemian Rhapsody,7,0.6000,0.7000,0.2000
+cultural,Bohemian Rhapsody,8,0.0500,0.2000,0.1000
+cultural,Bohemian Rhapsody,9,0.9800,0.9000,0.7000
+cultural,Bohemian Rhapsody,10,0.4000,0.0500,0.0500
+cultural,Bohemian Rhapsody,11,0.7500,0.5000,0.4000
+dreamy,Moonbeam Meadow,0,0.8500,0.9000,0.9800
+dreamy,Moonbeam Meadow,1,0.6000,0.7000,0.8000
+dreamy,Moonbeam Meadow,2,0.9500,0.9800,0.9200
+dreamy,Moonbeam Meadow,3,0.7000,0.8000,0.9000
+dreamy,Moonbeam Meadow,4,0.9000,0.9200,0.8500
+dreamy,Moonbeam Meadow,5,0.5000,0.6000,0.7500
+dreamy,Moonbeam Meadow,6,0.9800,0.9500,0.9900
+dreamy,Moonbeam Meadow,7,0.7500,0.8500,0.9200
+dreamy,Moonbeam Meadow,8,0.6500,0.7500,0.8200
+dreamy,Moonbeam Meadow,9,0.9200,0.9600,0.8800
+dreamy,Moonbeam Meadow,10,0.8000,0.8800,0.9500
+dreamy,Moonbeam Meadow,11,0.9900,0.9900,0.9700
+elemental,Geode Slice,0,0.4000,0.2000,0.5000
+elemental,Geode Slice,1,0.8000,0.7000,0.6000
+elemental,Geode Slice,2,0.1000,0.0500,0.2000
+elemental,Geode Slice,3,0.6000,0.5000,0.8000
+elemental,Geode Slice,4,0.9500,0.9000,0.8000
+elemental,Geode Slice,5,0.2500,0.1500,0.3500
+elemental,Geode Slice,6,0.7000,0.6500,0.4000
+elemental,Geode Slice,7,0.0500,0.0200,0.1000
+elemental,Geode Slice,8,0.5000,0.3000,0.7000
+elemental,Geode Slice,9,0.9000,0.8500,0.9500
+elemental,Geode Slice,10,0.3000,0.2500,0.2000
+elemental,Geode Slice,11,0.8500,0.7500,0.7000
+fantasy,Phoenix Ash,0,0.1000,0.0800,0.0800
+fantasy,Phoenix Ash,1,0.7000,0.1000,0.0500
+fantasy,Phoenix Ash,2,0.4000,0.3500,0.3000
+fantasy,Phoenix Ash,3,0.9000,0.3000,0.1000
+fantasy,Phoenix Ash,4,0.2000,0.1500,0.1200
+fantasy,Phoenix Ash,5,1.0000,0.6000,0.2000
+fantasy,Phoenix Ash,6,0.0500,0.0200,0.0200
+fantasy,Phoenix Ash,7,0.6000,0.5000,0.4000
+fantasy,Phoenix Ash,8,0.8000,0.2000,0.0800
+fantasy,Phoenix Ash,9,0.3000,0.2500,0.2000
+fantasy,Phoenix Ash,10,0.9500,0.4000,0.1500
+fantasy,Phoenix Ash,11,0.0000,0.0000,0.0000
+foodie,Blueberry Cheesecake,0,0.3000,0.2000,0.5000
+foodie,Blueberry Cheesecake,1,0.9000,0.8500,0.7000
+foodie,Blueberry Cheesecake,2,0.5000,0.4000,0.7000
+foodie,Blueberry Cheesecake,3,0.8000,0.7500,0.6000
+foodie,Blueberry Cheesecake,4,0.2000,0.1000,0.3000
+foodie,Blueberry Cheesecake,5,0.9500,0.9200,0.8000
+foodie,Blueberry Cheesecake,6,0.4000,0.3000,0.6000
+foodie,Blueberry Cheesecake,7,0.7000,0.6000,0.5000
+foodie,Blueberry Cheesecake,8,0.1000,0.0500,0.2000
+foodie,Blueberry Cheesecake,9,0.9800,0.9600,0.8800
+foodie,Blueberry Cheesecake,10,0.6000,0.5000,0.7500
+foodie,Blueberry Cheesecake,11,0.8500,0.8000,0.6500
+gemstone,Emerald Shard,0,0.0000,0.2000,0.1000
+gemstone,Emerald Shard,1,0.0500,0.4000,0.1500
+gemstone,Emerald Shard,2,0.1000,0.6000,0.2000
+gemstone,Emerald Shard,3,0.0000,0.1000,0.0500
+gemstone,Emerald Shard,4,0.1500,0.7500,0.2500
+gemstone,Emerald Shard,5,0.0200,0.0500,0.0200
+gemstone,Emerald Shard,6,0.2000,0.9000,0.3000
+gemstone,Emerald Shard,7,0.0800,0.3000,0.1200
+gemstone,Emerald Shard,8,0.0300,0.1500,0.0800
+gemstone,Emerald Shard,9,0.2500,0.9500,0.8000
+gemstone,Emerald Shard,10,0.1200,0.5000,0.1800
+gemstone,Emerald Shard,11,0.3000,0.8000,0.7000
+historic,Renaissance Gold,0,0.6000,0.4000,0.0000
+historic,Renaissance Gold,1,0.8000,0.6000,0.1000
+historic,Renaissance Gold,2,0.3000,0.1000,0.0000
+historic,Renaissance Gold,3,0.9500,0.8500,0.3000
+historic,Renaissance Gold,4,0.4000,0.2000,0.0000
+historic,Renaissance Gold,5,0.7000,0.5000,0.0500
+historic,Renaissance Gold,6,0.1000,0.0200,0.0000
+historic,Renaissance Gold,7,0.9000,0.7000,0.2000
+historic,Renaissance Gold,8,0.5000,0.3000,0.0000
+historic,Renaissance Gold,9,0.9800,0.9200,0.5000
+historic,Renaissance Gold,10,0.2000,0.0500,0.0000
+historic,Renaissance Gold,11,0.7500,0.5500,0.0800
+moody,Forgotten Library,0,0.2000,0.1500,0.1000
+moody,Forgotten Library,1,0.4000,0.3000,0.2000
+moody,Forgotten Library,2,0.1000,0.0800,0.0500
+moody,Forgotten Library,3,0.5000,0.4500,0.3000
+moody,Forgotten Library,4,0.0500,0.0200,0.0100
+moody,Forgotten Library,5,0.3000,0.2500,0.1500
+moody,Forgotten Library,6,0.6000,0.5000,0.3500
+moody,Forgotten Library,7,0.1500,0.1200,0.0800
+moody,Forgotten Library,8,0.3500,0.2800,0.1800
+moody,Forgotten Library,9,0.0200,0.0100,0.0000
+moody,Forgotten Library,10,0.4500,0.3800,0.2500
+moody,Forgotten Library,11,0.2500,0.2000,0.1200
+mystical,Astral Plane,0,0.1000,0.0000,0.2000
+mystical,Astral Plane,1,0.5000,0.3000,0.7000
+mystical,Astral Plane,2,0.9000,0.8000,1.0000
+mystical,Astral Plane,3,0.0500,0.0000,0.0500
+mystical,Astral Plane,4,0.3000,0.1000,0.5000
+mystical,Astral Plane,5,0.7000,0.5000,0.9000
+mystical,Astral Plane,6,1.0000,0.9500,0.8000
+mystical,Astral Plane,7,0.0000,0.0000,0.0000
+mystical,Astral Plane,8,0.2000,0.0500,0.3500
+mystical,Astral Plane,9,0.6000,0.4000,0.8000
+mystical,Astral Plane,10,0.9500,0.9000,0.7000
+mystical,Astral Plane,11,0.4000,0.2000,0.6000
+nature,Tropical Dusk,0,0.2000,0.1000,0.3000
+nature,Tropical Dusk,1,0.8000,0.4000,0.2000
+nature,Tropical Dusk,2,0.0500,0.2000,0.4000
+nature,Tropical Dusk,3,0.6000,0.2000,0.1000
+nature,Tropical Dusk,4,0.9500,0.7000,0.5000
+nature,Tropical Dusk,5,0.1000,0.0500,0.1500
+nature,Tropical Dusk,6,0.7000,0.3000,0.5000
+nature,Tropical Dusk,7,0.4000,0.1000,0.0500
+nature,Tropical Dusk,8,0.9000,0.5000,0.3000
+nature,Tropical Dusk,9,0.0000,0.1000,0.2000
+nature,Tropical Dusk,10,0.7500,0.6000,0.6000
+nature,Tropical Dusk,11,0.5000,0.1500,0.2500
+neutral,Warm Taupe,0,0.5000,0.4500,0.4000
+neutral,Warm Taupe,1,0.6000,0.5500,0.5000
+neutral,Warm Taupe,2,0.4000,0.3500,0.3000
+neutral,Warm Taupe,3,0.7000,0.6500,0.6000
+neutral,Warm Taupe,4,0.3000,0.2500,0.2000
+neutral,Warm Taupe,5,0.8000,0.7500,0.7000
+neutral,Warm Taupe,6,0.4500,0.4000,0.3500
+neutral,Warm Taupe,7,0.5500,0.5000,0.4500
+neutral,Warm Taupe,8,0.3500,0.3000,0.2500
+neutral,Warm Taupe,9,0.6500,0.6000,0.5500
+neutral,Warm Taupe,10,0.2500,0.2000,0.1500
+neutral,Warm Taupe,11,0.7500,0.7000,0.6500
+pastelcool,Icy Mint Swirl,0,0.7000,0.9500,0.9000
+pastelcool,Icy Mint Swirl,1,0.8000,0.9000,0.9500
+pastelcool,Icy Mint Swirl,2,0.6000,0.9000,0.8500
+pastelcool,Icy Mint Swirl,3,0.9000,0.9800,0.9200
+pastelcool,Icy Mint Swirl,4,0.5000,0.8500,0.8000
+pastelcool,Icy Mint Swirl,5,0.9500,0.9900,0.9800
+pastelcool,Icy Mint Swirl,6,0.7500,0.9200,0.8800
+pastelcool,Icy Mint Swirl,7,0.8500,0.9600,0.9300
+pastelcool,Icy Mint Swirl,8,0.6500,0.8800,0.8200
+pastelcool,Icy Mint Swirl,9,0.9200,0.9700,0.9000
+pastelcool,Icy Mint Swirl,10,0.5500,0.8200,0.7800
+pastelcool,Icy Mint Swirl,11,0.9900,1.0000,0.9900
+retro,Vinyl Record Grooves,0,0.0500,0.0500,0.0500
+retro,Vinyl Record Grooves,1,0.2000,0.2000,0.2000
+retro,Vinyl Record Grooves,2,0.8000,0.1000,0.1000
+retro,Vinyl Record Grooves,3,0.3500,0.3500,0.3500
+retro,Vinyl Record Grooves,4,0.9500,0.9500,0.9500
+retro,Vinyl Record Grooves,5,0.1000,0.1000,0.1000
+retro,Vinyl Record Grooves,6,0.6000,0.0500,0.0500
+retro,Vinyl Record Grooves,7,0.5000,0.5000,0.5000
+retro,Vinyl Record Grooves,8,0.0000,0.0000,0.0000
+retro,Vinyl Record Grooves,9,0.3000,0.0200,0.0200
+retro,Vinyl Record Grooves,10,0.7000,0.7000,0.7000
+retro,Vinyl Record Grooves,11,0.1500,0.1500,0.1500
+sci-fi,Alien Tech Glow,0,0.0000,0.8000,0.6000
+sci-fi,Alien Tech Glow,1,0.1000,0.1000,0.1500
+sci-fi,Alien Tech Glow,2,0.0000,0.5000,0.9000
+sci-fi,Alien Tech Glow,3,0.2000,0.2000,0.2500
+sci-fi,Alien Tech Glow,4,0.5000,1.0000,0.2000
+sci-fi,Alien Tech Glow,5,0.0500,0.0500,0.0800
+sci-fi,Alien Tech Glow,6,0.0000,0.9500,0.8000
+sci-fi,Alien Tech Glow,7,0.1500,0.1500,0.2000
+sci-fi,Alien Tech Glow,8,0.2000,0.4000,1.0000
+sci-fi,Alien Tech Glow,9,0.2500,0.2500,0.3000
+sci-fi,Alien Tech Glow,10,0.7000,1.0000,0.5000
+sci-fi,Alien Tech Glow,11,0.0200,0.0200,0.0300
+seasonal,Harvest Moon,0,0.9000,0.6000,0.2000
+seasonal,Harvest Moon,1,0.5000,0.2000,0.0000
+seasonal,Harvest Moon,2,0.9800,0.8000,0.4000
+seasonal,Harvest Moon,3,0.2000,0.0500,0.0000
+seasonal,Harvest Moon,4,1.0000,0.9500,0.7000
+seasonal,Harvest Moon,5,0.7000,0.4000,0.0000
+seasonal,Harvest Moon,6,0.9500,0.7000,0.3000
+seasonal,Harvest Moon,7,0.3000,0.1000,0.0000
+seasonal,Harvest Moon,8,0.9900,0.9000,0.6000
+seasonal,Harvest Moon,9,0.1000,0.0200,0.0000
+seasonal,Harvest Moon,10,0.8000,0.5000,0.1000
+seasonal,Harvest Moon,11,0.0000,0.0000,0.0000
+sweet,Bubblegum Pop,0,1.0000,0.6000,0.8000
+sweet,Bubblegum Pop,1,0.7000,0.8000,1.0000
+sweet,Bubblegum Pop,2,1.0000,0.8000,0.6000
+sweet,Bubblegum Pop,3,0.9000,0.5000,0.9000
+sweet,Bubblegum Pop,4,0.6000,0.9000,0.9000
+sweet,Bubblegum Pop,5,1.0000,0.9500,0.9000
+sweet,Bubblegum Pop,6,0.9500,0.7000,0.8500
+sweet,Bubblegum Pop,7,0.8000,0.6000,1.0000
+sweet,Bubblegum Pop,8,1.0000,0.8500,0.7000
+sweet,Bubblegum Pop,9,0.9800,0.9800,0.9800
+sweet,Bubblegum Pop,10,0.8500,0.7500,0.9500
+sweet,Bubblegum Pop,11,0.9200,0.9000,0.7500
+underwater,Deep Trench Glow,0,0.0000,0.0100,0.0500
+underwater,Deep Trench Glow,1,0.0000,0.2000,0.3000
+underwater,Deep Trench Glow,2,0.0000,0.6000,0.8000
+underwater,Deep Trench Glow,3,0.0000,0.0000,0.0000
+underwater,Deep Trench Glow,4,0.1000,0.3000,0.4000
+underwater,Deep Trench Glow,5,0.0000,0.8000,1.0000
+underwater,Deep Trench Glow,6,0.0200,0.0500,0.1000
+underwater,Deep Trench Glow,7,0.0000,0.1000,0.1500
+underwater,Deep Trench Glow,8,0.2000,0.4000,0.5000
+underwater,Deep Trench Glow,9,0.0000,0.7000,0.9000
+underwater,Deep Trench Glow,10,0.0800,0.0800,0.0800
+underwater,Deep Trench Glow,11,0.0000,0.0000,0.0200
+vintage,Sepia Memories,0,0.4000,0.2500,0.1000
+vintage,Sepia Memories,1,0.6000,0.4500,0.2000
+vintage,Sepia Memories,2,0.2000,0.1000,0.0000
+vintage,Sepia Memories,3,0.8000,0.7000,0.5000
+vintage,Sepia Memories,4,0.3000,0.1500,0.0500
+vintage,Sepia Memories,5,0.7000,0.5500,0.3000
+vintage,Sepia Memories,6,0.1000,0.0500,0.0000
+vintage,Sepia Memories,7,0.9000,0.8500,0.7500
+vintage,Sepia Memories,8,0.5000,0.3500,0.1500
+vintage,Sepia Memories,9,0.2500,0.1200,0.0200
+vintage,Sepia Memories,10,0.7500,0.6000,0.4000
+vintage,Sepia Memories,11,0.3500,0.2000,0.0800
+vibrant,Psychedelic Sunset,0,1.0000,0.4000,0.0000
+vibrant,Psychedelic Sunset,1,0.6000,0.0000,0.8000
+vibrant,Psychedelic Sunset,2,0.0000,0.8000,0.2000
+vibrant,Psychedelic Sunset,3,0.9000,0.0000,0.4000
+vibrant,Psychedelic Sunset,4,0.2000,0.6000,1.0000
+vibrant,Psychedelic Sunset,5,1.0000,0.7000,0.1000
+vibrant,Psychedelic Sunset,6,0.4000,0.2000,0.9000
+vibrant,Psychedelic Sunset,7,0.0000,1.0000,0.6000
+vibrant,Psychedelic Sunset,8,0.8000,0.9000,0.0000
+vibrant,Psychedelic Sunset,9,0.7000,0.3000,0.7000
+vibrant,Psychedelic Sunset,10,0.1000,0.4000,0.0000
+vibrant,Psychedelic Sunset,11,0.0000,0.0000,0.0000
