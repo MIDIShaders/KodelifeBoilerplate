@@ -1,0 +1,29 @@
+// Metal_Image.txt
+#include <metal_stdlib>
+using namespace metal;
+
+// Include the common code
+#include "Metal_COMMON.txt"
+
+struct VertexOut {
+    float4 position [[position]];
+    float2 texCoord;
+    float3 normal;
+};
+
+// Main fragment shader
+fragment float4 mainImage(VertexOut in [[stage_in]],
+                         constant float& time [[buffer(0)]],
+                         constant float2& resolution [[buffer(1)]],
+                         texture2d<float> midiTexture [[texture(0)]],
+                         sampler midiSampler [[sampler(0)]]) {
+    // Get MIDI CC values
+    float cc1 = getMidiCC(1, midiTexture, midiSampler);
+    float cc2 = getMidiCC(2, midiTexture, midiSampler);
+    // ... rest of your shader code ...
+    
+    // Your existing shader logic here, using the MIDI CC values
+    // ...
+    
+    return float4(color, 1.0);
+}
