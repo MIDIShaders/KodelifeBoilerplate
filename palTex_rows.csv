@@ -2751,3 +2751,179 @@ vibrant,Psychedelic Sunset,8,0.8000,0.9000,0.0000
 vibrant,Psychedelic Sunset,9,0.7000,0.3000,0.7000
 vibrant,Psychedelic Sunset,10,0.1000,0.4000,0.0000
 vibrant,Psychedelic Sunset,11,0.0000,0.0000,0.0000
+Theme,Palette Name,Color Index,R,G,B
+abstract,Cosmic Ink Spill,0,0.0200,0.0100,0.0500
+abstract,Cosmic Ink Spill,1,0.8000,0.1000,0.5000
+abstract,Cosmic Ink Spill,2,0.1000,0.4000,0.7000
+abstract,Cosmic Ink Spill,3,0.0000,0.0000,0.0000
+abstract,Cosmic Ink Spill,4,0.9500,0.9000,0.2000
+abstract,Cosmic Ink Spill,5,0.3000,0.0500,0.2000
+abstract,Cosmic Ink Spill,6,1.0000,0.5000,0.8000
+abstract,Cosmic Ink Spill,7,0.0500,0.1000,0.3000
+abstract,Cosmic Ink Spill,8,0.7000,0.9000,0.5000
+abstract,Cosmic Ink Spill,9,0.2000,0.6000,0.9000
+abstract,Cosmic Ink Spill,10,0.9800,0.9800,0.9800
+abstract,Cosmic Ink Spill,11,0.5000,0.2000,0.6000
+abstract,Geometric Harmony,0,0.9000,0.7000,0.1000
+abstract,Geometric Harmony,1,0.1000,0.4000,0.6000
+abstract,Geometric Harmony,2,0.5000,0.8000,0.3000
+abstract,Geometric Harmony,3,0.2000,0.1000,0.3000
+abstract,Geometric Harmony,4,0.9500,0.9000,0.8000
+abstract,Geometric Harmony,5,0.7000,0.2000,0.5000
+abstract,Geometric Harmony,6,0.3000,0.6000,0.7000
+abstract,Geometric Harmony,7,0.8000,0.8500,0.4000
+abstract,Geometric Harmony,8,0.1500,0.2500,0.1000
+abstract,Geometric Harmony,9,0.6000,0.5000,0.9000
+abstract,Geometric Harmony,10,0.9800,0.6000,0.2500
+abstract,Geometric Harmony,11,0.4000,0.7000,0.7500
+atmospheric,Aurora Borealis Vivid,0,0.0000,0.2000,0.1000
+atmospheric,Aurora Borealis Vivid,1,0.1000,0.8000,0.3000
+atmospheric,Aurora Borealis Vivid,2,0.6000,0.1000,0.7000
+atmospheric,Aurora Borealis Vivid,3,0.0000,0.5000,0.6000
+atmospheric,Aurora Borealis Vivid,4,0.3000,0.9000,0.8000
+atmospheric,Aurora Borealis Vivid,5,0.8000,0.0000,0.5000
+atmospheric,Aurora Borealis Vivid,6,0.0200,0.0100,0.0500
+atmospheric,Aurora Borealis Vivid,7,0.2000,0.7000,0.9000
+atmospheric,Aurora Borealis Vivid,8,0.9000,0.4000,0.6000
+atmospheric,Aurora Borealis Vivid,9,0.0000,0.3000,0.4000
+atmospheric,Aurora Borealis Vivid,10,0.4000,0.9500,0.6000
+atmospheric,Aurora Borealis Vivid,11,0.7000,0.2000,0.8500
+atmospheric,Desert Twilight Purple,0,0.2000,0.1000,0.3000
+atmospheric,Desert Twilight Purple,1,0.4000,0.1500,0.5000
+atmospheric,Desert Twilight Purple,2,0.6000,0.2000,0.7000
+atmospheric,Desert Twilight Purple,3,0.8000,0.4000,0.3000
+atmospheric,Desert Twilight Purple,4,0.1000,0.0500,0.1500
+atmospheric,Desert Twilight Purple,5,0.5000,0.3000,0.6000
+atmospheric,Desert Twilight Purple,6,0.9000,0.6000,0.4000
+atmospheric,Desert Twilight Purple,7,0.0000,0.0000,0.0200
+atmospheric,Desert Twilight Purple,8,0.3000,0.1200,0.4000
+atmospheric,Desert Twilight Purple,9,0.7000,0.3500,0.8000
+atmospheric,Desert Twilight Purple,10,0.9500,0.8000,0.6000
+atmospheric,Desert Twilight Purple,11,0.2500,0.0800,0.2000
+botanical,Exotic Orchid,0,0.6000,0.1000,0.5000
+botanical,Exotic Orchid,1,0.9000,0.4000,0.8000
+botanical,Exotic Orchid,2,0.2000,0.4000,0.1000
+botanical,Exotic Orchid,3,0.8000,0.2000,0.7000
+botanical,Exotic Orchid,4,1.0000,0.7000,0.9000
+botanical,Exotic Orchid,5,0.4000,0.0500,0.3000
+botanical,Exotic Orchid,6,0.1000,0.6000,0.2000
+botanical,Exotic Orchid,7,0.9500,0.5000,0.8500
+botanical,Exotic Orchid,8,0.0500,0.0200,0.0800
+botanical,Exotic Orchid,9,0.7000,0.3000,0.6000
+botanical,Exotic Orchid,10,1.0000,0.9000,0.9500
+botanical,Exotic Orchid,11,0.5000,0.1500,0.4000
+botanical,Midnight Bloom,0,0.0500,0.0000,0.1000
+botanical,Midnight Bloom,1,0.4000,0.1000,0.3000
+botanical,Midnight Bloom,2,0.0000,0.1500,0.0500
+botanical,Midnight Bloom,3,0.6000,0.2000,0.5000
+botanical,Midnight Bloom,4,0.1000,0.0200,0.0200
+botanical,Midnight Bloom,5,0.0000,0.3000,0.1000
+botanical,Midnight Bloom,6,0.5000,0.0500,0.4000
+botanical,Midnight Bloom,7,0.2000,0.4000,0.2000
+botanical,Midnight Bloom,8,0.0000,0.0000,0.0000
+botanical,Midnight Bloom,9,0.7000,0.3000,0.6000
+botanical,Midnight Bloom,10,0.0800,0.2000,0.0800
+botanical,Midnight Bloom,11,0.3000,0.0000,0.2000
+celestial,Binary Sunset,0,0.8000,0.2000,0.0000
+celestial,Binary Sunset,1,1.0000,0.5000,0.1000
+celestial,Binary Sunset,2,0.6000,0.1000,0.0000
+celestial,Binary Sunset,3,0.9000,0.3000,0.4000
+celestial,Binary Sunset,4,0.0500,0.0200,0.1000
+celestial,Binary Sunset,5,1.0000,0.7000,0.3000
+celestial,Binary Sunset,6,0.7000,0.1500,0.2000
+celestial,Binary Sunset,7,0.9500,0.4000,0.0500
+celestial,Binary Sunset,8,0.1500,0.0500,0.2000
+celestial,Binary Sunset,9,1.0000,0.6000,0.5000
+celestial,Binary Sunset,10,0.5000,0.0500,0.0000
+celestial,Binary Sunset,11,0.8500,0.2500,0.3000
+cinematic,Neo-Noir Cityscape,0,0.0200,0.0500,0.1000
+cinematic,Neo-Noir Cityscape,1,0.8000,0.1000,0.3000
+cinematic,Neo-Noir Cityscape,2,0.0000,0.2000,0.4000
+cinematic,Neo-Noir Cityscape,3,0.5000,0.0500,0.1000
+cinematic,Neo-Noir Cityscape,4,0.1000,0.3000,0.5000
+cinematic,Neo-Noir Cityscape,5,1.0000,0.5000,0.2000
+cinematic,Neo-Noir Cityscape,6,0.0000,0.0000,0.0200
+cinematic,Neo-Noir Cityscape,7,0.7000,0.0000,0.2000
+cinematic,Neo-Noir Cityscape,8,0.0500,0.1000,0.2000
+cinematic,Neo-Noir Cityscape,9,0.9000,0.3000,0.4000
+cinematic,Neo-Noir Cityscape,10,0.0000,0.4000,0.6000
+cinematic,Neo-Noir Cityscape,11,0.3000,0.0200,0.0500
+cultural,Sakura Festival,0,1.0000,0.8000,0.8500
+cultural,Sakura Festival,1,0.9000,0.5000,0.6000
+cultural,Sakura Festival,2,0.2000,0.1000,0.0500
+cultural,Sakura Festival,3,1.0000,0.9500,0.9000
+cultural,Sakura Festival,4,0.8000,0.3000,0.4000
+cultural,Sakura Festival,5,0.5000,0.2000,0.1000
+cultural,Sakura Festival,6,0.9500,0.7000,0.7500
+cultural,Sakura Festival,7,0.7000,0.1000,0.2000
+cultural,Sakura Festival,8,0.1000,0.0500,0.0200
+cultural,Sakura Festival,9,1.0000,0.9000,0.8000
+cultural,Sakura Festival,10,0.8500,0.4000,0.5000
+cultural,Sakura Festival,11,0.3000,0.0000,0.0000
+cultural,Venetian Masquerade,0,0.5000,0.0000,0.0000
+cultural,Venetian Masquerade,1,0.8000,0.6000,0.1000
+cultural,Venetian Masquerade,2,0.1000,0.0500,0.2000
+cultural,Venetian Masquerade,3,0.9500,0.9000,0.7000
+cultural,Venetian Masquerade,4,0.3000,0.0000,0.0000
+cultural,Venetian Masquerade,5,0.7000,0.4000,0.0000
+cultural,Venetian Masquerade,6,0.0000,0.2000,0.3000
+cultural,Venetian Masquerade,7,0.9000,0.8000,0.4000
+cultural,Venetian Masquerade,8,0.2000,0.0000,0.0500
+cultural,Venetian Masquerade,9,0.6000,0.3000,0.5000
+cultural,Venetian Masquerade,10,0.0000,0.0000,0.0000
+cultural,Venetian Masquerade,11,0.8500,0.7000,0.2000
+dreamy,Pastel Nebula Cloud,0,0.8000,0.7000,0.9000
+dreamy,Pastel Nebula Cloud,1,0.9500,0.8000,0.7000
+dreamy,Pastel Nebula Cloud,2,0.7000,0.9000,0.8000
+dreamy,Pastel Nebula Cloud,3,0.9800,0.9500,0.9000
+dreamy,Pastel Nebula Cloud,4,0.6000,0.8000,0.9500
+dreamy,Pastel Nebula Cloud,5,0.9200,0.7500,0.8500
+dreamy,Pastel Nebula Cloud,6,0.7500,0.9500,0.7500
+dreamy,Pastel Nebula Cloud,7,0.9900,0.9900,0.9900
+dreamy,Pastel Nebula Cloud,8,0.6500,0.7000,0.8800
+dreamy,Pastel Nebula Cloud,9,0.9000,0.8800,0.6800
+dreamy,Pastel Nebula Cloud,10,0.8800,0.6500,0.9200
+dreamy,Pastel Nebula Cloud,11,0.7200,0.8800,0.8800
+elemental,Frozen Flame,0,0.0500,0.3000,0.7000
+elemental,Frozen Flame,1,0.9000,0.2000,0.0000
+elemental,Frozen Flame,2,0.5000,0.6000,0.9000
+elemental,Frozen Flame,3,1.0000,0.5000,0.1000
+elemental,Frozen Flame,4,0.0000,0.1000,0.4000
+elemental,Frozen Flame,5,0.8000,0.8000,0.7000
+elemental,Frozen Flame,6,0.2000,0.4000,0.8000
+elemental,Frozen Flame,7,0.9500,0.3000,0.0500
+elemental,Frozen Flame,8,0.7000,0.7000,1.0000
+elemental,Frozen Flame,9,1.0000,0.7000,0.3000
+elemental,Frozen Flame,10,0.1000,0.0000,0.2000
+elemental,Frozen Flame,11,0.9800,0.9000,0.8000
+ethereal,Morning Dew,0,0.8500,0.9500,0.9000
+ethereal,Morning Dew,1,0.7000,0.8000,0.7000
+ethereal,Morning Dew,2,0.9000,0.9800,0.9200
+ethereal,Morning Dew,3,0.6000,0.7000,0.5000
+ethereal,Morning Dew,4,0.9800,0.9900,0.9600
+ethereal,Morning Dew,5,0.7500,0.8500,0.7800
+ethereal,Morning Dew,6,0.9200,0.9600,0.8800
+ethereal,Morning Dew,7,0.6500,0.7500,0.6000
+ethereal,Morning Dew,8,0.9600,0.9900,0.9400
+ethereal,Morning Dew,9,0.5500,0.6500,0.4500
+ethereal,Morning Dew,10,0.9900,1.0000,0.9800
+ethereal,Morning Dew,11,0.8000,0.9000,0.8200
+fantasy,Goblin Gold,0,0.3000,0.4000,0.0500
+fantasy,Goblin Gold,1,0.6000,0.5000,0.0000
+fantasy,Goblin Gold,2,0.1000,0.2000,0.0000
+fantasy,Goblin Gold,3,0.8000,0.7000,0.1000
+fantasy,Goblin Gold,4,0.2000,0.1000,0.0000
+fantasy,Goblin Gold,5,0.5000,0.3000,0.0000
+fantasy,Goblin Gold,6,0.9000,0.8000,0.2000
+fantasy,Goblin Gold,7,0.0500,0.0500,0.0000
+fantasy,Goblin Gold,8,0.7000,0.6000,0.0500
+fantasy,Goblin Gold,9,0.1500,0.0800,0.0000
+fantasy,Goblin Gold,10,0.4000,0.2500,0.0000
+fantasy,Goblin Gold,11,0.9500,0.8800,0.3000
+foodie,Matcha Latte,0,0.3000,0.5000,0.2000
+foodie,Matcha Latte,1,0.9000,0.9500,0.9200
+foodie,Matcha Latte,2,0.4000,0.6000,0.3000
+foodie,Matcha Latte,3,0.8000,0.8800,0.8500
+foodie,Matcha Latte,4,0.2000,0.4000,0.1000
+foodie,Matcha Latte,5,0.9500,0.9800,0.9600
+foodie,Matcha Latte,6,0.3500,0.5500,0.2500
