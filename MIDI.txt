@@ -1,0 +1,97 @@
+#version 150
+
+uniform float time;
+uniform vec2 resolution;
+uniform sampler2D midi1;
+uniform sampler2D prevFrame; // Add prevFrame for smoothing
+
+in VertexData
+{
+    vec4 v_position;
+    vec3 v_normal;
+    vec2 v_texcoord;
+} inData;
+
+out vec4 fragColor;
+
+// MIDI constants
+#define CONTROLCHANGE 381
+
+// Smoothing factor (0.0 = no smoothing, 0.9 = heavy smoothing)
+#define SMOOTH_FACTOR 0.3
+
+// Function to read MIDI values
+float midiValue(int value)
+{
+    int x = value % 32;
+    int y = value / 32;
+    return texelFetch(midi1, ivec2(x, y), 0).r;
+}
+
+// Smooth a value using exponential filtering
+float smoothValue(float current, float previous) {
+    return mix(current, previous, SMOOTH_FACTOR);
+}
+
+void main(void)
+{
+    vec2 uv = inData.v_texcoord;
+    
+    // Read current MIDI CC values
+    float CC_1_raw  = midiValue(CONTROLCHANGE + 1);
+    float CC_2_raw  = midiValue(CONTROLCHANGE + 2);
+    float CC_3_raw  = midiValue(CONTROLCHANGE + 3);
+    float CC_4_raw  = midiValue(CONTROLCHANGE + 4);
+    float CC_5_raw  = midiValue(CONTROLCHANGE + 5);
+    float CC_6_raw  = midiValue(CONTROLCHANGE + 6);
+    float CC_7_raw  = midiValue(CONTROLCHANGE + 7);
+    float CC_8_raw  = midiValue(CONTROLCHANGE + 8);
+    float CC_9_raw  = midiValue(CONTROLCHANGE + 9);
+    float CC_10_raw = midiValue(CONTROLCHANGE + 10);
+    
+    // Read previous smoothed values
+    float CC_1_prev  = texture(prevFrame, vec2(0.05, 0.125)).r;
+    float CC_2_prev  = texture(prevFrame, vec2(0.05, 0.375)).r;
+    float CC_3_prev  = texture(prevFrame, vec2(0.05, 0.625)).r;
+    float CC_4_prev  = texture(prevFrame, vec2(0.05, 0.875)).r;
+    float CC_5_prev  = texture(prevFrame, vec2(0.15, 0.125)).r;
+    float CC_6_prev  = texture(prevFrame, vec2(0.15, 0.375)).r;
+    float CC_7_prev  = texture(prevFrame, vec2(0.15, 0.625)).r;
+    float CC_8_prev  = texture(prevFrame, vec2(0.15, 0.875)).r;
+    float CC_9_prev  = texture(prevFrame, vec2(0.25, 0.25)).r;
+    float CC_10_prev = texture(prevFrame, vec2(0.25, 0.75)).r;
+    
+    // Apply smoothing
+    float CC_1  = smoothValue(CC_1_raw, CC_1_prev);
+    float CC_2  = smoothValue(CC_2_raw, CC_2_prev);
+    float CC_3  = smoothValue(CC_3_raw, CC_3_prev);
+    float CC_4  = smoothValue(CC_4_raw, CC_4_prev);
+    float CC_5  = smoothValue(CC_5_raw, CC_5_prev);
+    float CC_6  = smoothValue(CC_6_raw, CC_6_prev);
+    float CC_7  = smoothValue(CC_7_raw, CC_7_prev);
+    float CC_8  = smoothValue(CC_8_raw, CC_8_prev);
+    float CC_9  = smoothValue(CC_9_raw, CC_9_prev);
+    float CC_10 = smoothValue(CC_10_raw, CC_10_prev);
+
+    // Pack smoothed MIDI values into texture channels for other buffers to read
+    // You can access these in other buffers via texture(prevPass, uv)
+    if (uv.x < 0.1) {
+        // Store CC 1-4 in first column
+        if (uv.y < 0.25) fragColor = vec4(CC_1, 0, 0, 1);
+        else if (uv.y < 0.5) fragColor = vec4(CC_2, 0, 0, 1);
+        else if (uv.y < 0.75) fragColor = vec4(CC_3, 0, 0, 1);
+        else fragColor = vec4(CC_4, 0, 0, 1);
+    } else if (uv.x < 0.2) {
+        // Store CC 5-8 in second column
+        if (uv.y < 0.25) fragColor = vec4(CC_5, 0, 0, 1);
+        else if (uv.y < 0.5) fragColor = vec4(CC_6, 0, 0, 1);
+        else if (uv.y < 0.75) fragColor = vec4(CC_7, 0, 0, 1);
+        else fragColor = vec4(CC_8, 0, 0, 1);
+    } else if (uv.x < 0.3) {
+        // Store CC 9-10 in third column
+        if (uv.y < 0.5) fragColor = vec4(CC_9, 0, 0, 1);
+        else fragColor = vec4(CC_10, 0, 0, 1);
+    } else {
+        fragColor = vec4(0, 0, 0, 1);
+    }
+}
