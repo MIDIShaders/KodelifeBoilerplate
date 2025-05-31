@@ -1,0 +1,74 @@
+// Metal_COMMON.txt
+#include <metal_stdlib>
+using namespace metal;
+
+// ═══════════════════════════════════════════════════════════════════════════════
+// COMMON BUFFER - MIDI-reactive volcanic lava flow shader utilities
+// Contains: MIDI helpers, distance fields, palette system, math utilities
+// ═══════════════════════════════════════════════════════════════════════════════
+
+// Palette constants
+#define TOTAL_PALETTES 113.0f
+#define COLORS_PER_PALETTE 12.0f
+
+// MIDI coordinate helper for Kodelife's MIDI texture layout
+// Kodelife packs MIDI data into a 32x32 texture where each texel is a float4
+int2 midiCoord(int offset) {
+    int x = offset % 32;
+    int y = offset / 32;
+    return int2(x, y);
+}
+
+// MIDI CC reader for Kodelife's MIDI texture format
+// Kodelife stores MIDI CCs starting at offset 3*127
+float getMidiCC(int ccNumber, texture2d<float, access::sample> midiTexture, sampler midiSampler) {
+    // In Kodelife, CC messages start at offset 3*127
+    int offset = 3 * 127 + ccNumber;
+    
+    // Get the coordinates in the MIDI texture
+    int2 coord = midiCoord(offset);
+    
+    // Sample the texture
+    // Note: We use sample_compare for better precision with integer coordinates
+    float value = midiTexture.sample(midiSampler, 
+                                   float2(coord) / 32.0f, 
+                                   level(0.0f)).r;
+    
+    // Normalize from 0-127 to 0-1
+    return value / 127.0f;
+}
+
+// Alternative version using read() instead of sample() - might be more appropriate
+float getMidiCCRead(int ccNumber, texture2d<float> midiTexture) {
+    // In Kodelife, CC messages start at offset 3*127
+    int offset = 3 * 127 + ccNumber;
+    
+    // Get the coordinates in the MIDI texture
+    int2 coord = midiCoord(offset);
+    
+    // Read the texture value directly
+    float value = midiTexture.read(uint2(coord), 0).r;
+    
+    // Normalize from 0-127 to 0-1
+    return value / 127.0f;
+}
+
+// Distance field functions
+float sdRoundedBox(float2 p, float2 b, float r) {
+    float2 q = abs(p) - b + r;
+    return length(max(q, 0.0f)) + min(max(q.x, q.y), 0.0f) - r;
+}
+
+float sdCircle(float2 p, float r) { 
+    return length(p) - r; 
+}
+
+// Math utilities
+float rand(float2 n) { 
+    return fract(sin(dot(n, float2(12.9898f, 78.233f))) * 43758.5453f); 
+}
+
+float2 rot(float2 p, float a) { 
+    float2x2 m = float2x2(cos(a), -sin(a), sin(a), cos(a));
+    return m * p;
+}
