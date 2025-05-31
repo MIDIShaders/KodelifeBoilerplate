@@ -3456,3 +3456,376 @@ warmpastel,Blush and Gold,8,0.9900,0.9200,0.8800
 warmpastel,Blush and Gold,9,0.6000,0.4000,0.0500
 warmpastel,Blush and Gold,10,1.0000,0.9800,0.9600
 warmpastel,Blush and Gold,11,0.8500,0.6500,0.3000
+Theme,Palette Name,Color Index,R,G,B
+aquatic,Abyssal Depths,0,0.0000,0.0200,0.0500
+aquatic,Abyssal Depths,1,0.0100,0.0500,0.1000
+aquatic,Abyssal Depths,2,0.0200,0.1000,0.1500
+aquatic,Abyssal Depths,3,0.0300,0.1500,0.2000
+aquatic,Abyssal Depths,4,0.0000,0.0000,0.0100
+aquatic,Abyssal Depths,5,0.0400,0.2000,0.2500
+aquatic,Abyssal Depths,6,0.0100,0.0300,0.0800
+aquatic,Abyssal Depths,7,0.0500,0.2500,0.3000
+aquatic,Abyssal Depths,8,0.0000,0.0000,0.0000
+aquatic,Abyssal Depths,9,0.0200,0.0800,0.1200
+aquatic,Abyssal Depths,10,0.0300,0.1200,0.1800
+aquatic,Abyssal Depths,11,0.0400,0.1800,0.2200
+aquatic,Bioluminescent Kelp,0,0.0500,0.3000,0.2000
+aquatic,Bioluminescent Kelp,1,0.0000,0.8000,0.7000
+aquatic,Bioluminescent Kelp,2,0.1000,0.4000,0.2500
+aquatic,Bioluminescent Kelp,3,0.0000,0.1000,0.0500
+aquatic,Bioluminescent Kelp,4,0.0200,0.6000,0.5000
+aquatic,Bioluminescent Kelp,5,0.0000,0.9500,0.8500
+aquatic,Bioluminescent Kelp,6,0.1500,0.5000,0.3000
+aquatic,Bioluminescent Kelp,7,0.0000,0.0500,0.0200
+aquatic,Bioluminescent Kelp,8,0.0800,0.7000,0.6000
+aquatic,Bioluminescent Kelp,9,0.0100,0.0200,0.0100
+aquatic,Bioluminescent Kelp,10,0.0300,0.9000,0.7500
+aquatic,Bioluminescent Kelp,11,0.1200,0.4500,0.2800
+aquatic,Deep Sea Vents,0,0.0100,0.0100,0.0200
+aquatic,Deep Sea Vents,1,0.0000,0.2000,0.4000
+aquatic,Deep Sea Vents,2,0.7000,0.8000,0.1000
+aquatic,Deep Sea Vents,3,0.0000,0.0000,0.0000
+aquatic,Deep Sea Vents,4,0.0500,0.3000,0.5000
+aquatic,Deep Sea Vents,5,0.9000,0.9500,0.3000
+aquatic,Deep Sea Vents,6,0.0200,0.0200,0.0500
+aquatic,Deep Sea Vents,7,0.0000,0.1000,0.2000
+aquatic,Deep Sea Vents,8,0.8000,0.9000,0.2000
+aquatic,Deep Sea Vents,9,0.1000,0.4000,0.6000
+aquatic,Deep Sea Vents,10,0.0000,0.0000,0.0100
+aquatic,Deep Sea Vents,11,0.0300,0.0500,0.0800
+atmospheric,Arctic Haze,0,0.6000,0.7000,0.8000
+atmospheric,Arctic Haze,1,0.4000,0.5000,0.6000
+atmospheric,Arctic Haze,2,0.7500,0.8500,0.9000
+atmospheric,Arctic Haze,3,0.2000,0.3000,0.4000
+atmospheric,Arctic Haze,4,0.9000,0.9200,0.9500
+atmospheric,Arctic Haze,5,0.5000,0.6000,0.7000
+atmospheric,Arctic Haze,6,0.6500,0.7800,0.8800
+atmospheric,Arctic Haze,7,0.3000,0.4000,0.5000
+atmospheric,Arctic Haze,8,0.9500,0.9800,0.9900
+atmospheric,Arctic Haze,9,0.1000,0.2000,0.3000
+atmospheric,Arctic Haze,10,0.8000,0.8800,0.9200
+atmospheric,Arctic Haze,11,0.0000,0.0500,0.1500
+botanical,Jade Vine Cascade,0,0.0500,0.3000,0.1000
+botanical,Jade Vine Cascade,1,0.1500,0.5000,0.2000
+botanical,Jade Vine Cascade,2,0.0000,0.1000,0.0200
+botanical,Jade Vine Cascade,3,0.2500,0.6500,0.3000
+botanical,Jade Vine Cascade,4,0.0200,0.2000,0.0500
+botanical,Jade Vine Cascade,5,0.3500,0.8000,0.4000
+botanical,Jade Vine Cascade,6,0.0800,0.2500,0.0800
+botanical,Jade Vine Cascade,7,0.1200,0.4000,0.1500
+botanical,Jade Vine Cascade,8,0.0000,0.0000,0.0000
+botanical,Jade Vine Cascade,9,0.2000,0.5800,0.2500
+botanical,Jade Vine Cascade,10,0.0300,0.1500,0.0300
+botanical,Jade Vine Cascade,11,0.3000,0.7200,0.3500
+botanical,Moss Glen Sanctuary,0,0.1000,0.2500,0.0800
+botanical,Moss Glen Sanctuary,1,0.2000,0.4000,0.1500
+botanical,Moss Glen Sanctuary,2,0.0500,0.1500,0.0200
+botanical,Moss Glen Sanctuary,3,0.3000,0.5500,0.2000
+botanical,Moss Glen Sanctuary,4,0.0000,0.0500,0.0000
+botanical,Moss Glen Sanctuary,5,0.4000,0.7000,0.2500
+botanical,Moss Glen Sanctuary,6,0.1500,0.3000,0.1000
+botanical,Moss Glen Sanctuary,7,0.0800,0.2000,0.0500
+botanical,Moss Glen Sanctuary,8,0.2500,0.4800,0.1800
+botanical,Moss Glen Sanctuary,9,0.0200,0.0800,0.0100
+botanical,Moss Glen Sanctuary,10,0.3500,0.6200,0.2200
+botanical,Moss Glen Sanctuary,11,0.1200,0.2800,0.0900
+celestial,Frozen Nebula Gas,0,0.1000,0.2000,0.4000
+celestial,Frozen Nebula Gas,1,0.0000,0.0500,0.1500
+celestial,Frozen Nebula Gas,2,0.3000,0.4000,0.6000
+celestial,Frozen Nebula Gas,3,0.0200,0.1000,0.2500
+celestial,Frozen Nebula Gas,4,0.5000,0.6000,0.8000
+celestial,Frozen Nebula Gas,5,0.0000,0.0000,0.0500
+celestial,Frozen Nebula Gas,6,0.2000,0.3000,0.5000
+celestial,Frozen Nebula Gas,7,0.0800,0.1500,0.3500
+celestial,Frozen Nebula Gas,8,0.4000,0.5000,0.7000
+celestial,Frozen Nebula Gas,9,0.0000,0.0200,0.0800
+celestial,Frozen Nebula Gas,10,0.6000,0.7000,0.9000
+celestial,Frozen Nebula Gas,11,0.0100,0.0000,0.0200
+cool,Arctic Midnight Sun,0,0.0000,0.1000,0.2000
+cool,Arctic Midnight Sun,1,0.3000,0.4000,0.6000
+cool,Arctic Midnight Sun,2,0.0000,0.0200,0.0500
+cool,Arctic Midnight Sun,3,0.5000,0.6000,0.8000
+cool,Arctic Midnight Sun,4,0.1000,0.2000,0.3000
+cool,Arctic Midnight Sun,5,0.7000,0.8000,0.9500
+cool,Arctic Midnight Sun,6,0.0200,0.0500,0.1000
+cool,Arctic Midnight Sun,7,0.4000,0.5000,0.7000
+cool,Arctic Midnight Sun,8,0.0000,0.0000,0.0100
+cool,Arctic Midnight Sun,9,0.6000,0.7000,0.9000
+cool,Arctic Midnight Sun,10,0.2000,0.3000,0.5000
+cool,Arctic Midnight Sun,11,0.8000,0.9000,1.0000
+cool,Glacier Crevasse,0,0.3000,0.6000,0.8000
+cool,Glacier Crevasse,1,0.1000,0.2000,0.3000
+cool,Glacier Crevasse,2,0.5000,0.8000,0.9500
+cool,Glacier Crevasse,3,0.0000,0.0500,0.1000
+cool,Glacier Crevasse,4,0.2000,0.4000,0.6000
+cool,Glacier Crevasse,5,0.7000,0.9000,1.0000
+cool,Glacier Crevasse,6,0.0500,0.1000,0.2000
+cool,Glacier Crevasse,7,0.4000,0.7000,0.9000
+cool,Glacier Crevasse,8,0.0000,0.0000,0.0200
+cool,Glacier Crevasse,9,0.6000,0.8500,0.9800
+cool,Glacier Crevasse,10,0.1500,0.3000,0.5000
+cool,Glacier Crevasse,11,0.8000,0.9500,0.9900
+cool,Ice Planet Surface,0,0.7000,0.8000,0.9000
+cool,Ice Planet Surface,1,0.5000,0.6000,0.7000
+cool,Ice Planet Surface,2,0.9000,0.9500,0.9800
+cool,Ice Planet Surface,3,0.3000,0.4000,0.5000
+cool,Ice Planet Surface,4,0.9800,0.9900,1.0000
+cool,Ice Planet Surface,5,0.6000,0.7000,0.8000
+cool,Ice Planet Surface,6,0.8000,0.8800,0.9200
+cool,Ice Planet Surface,7,0.4000,0.5000,0.6000
+cool,Ice Planet Surface,8,0.9600,0.9700,0.9900
+cool,Ice Planet Surface,9,0.2000,0.3000,0.4000
+cool,Ice Planet Surface,10,0.9900,1.0000,0.9800
+cool,Ice Planet Surface,11,0.8500,0.9000,0.9300
+cool,Sapphire Depths,0,0.0000,0.0500,0.2000
+cool,Sapphire Depths,1,0.0200,0.1000,0.3000
+cool,Sapphire Depths,2,0.0500,0.1500,0.4000
+cool,Sapphire Depths,3,0.0000,0.0200,0.1000
+cool,Sapphire Depths,4,0.0800,0.2000,0.5000
+cool,Sapphire Depths,5,0.0000,0.0000,0.0500
+cool,Sapphire Depths,6,0.1000,0.2500,0.6000
+cool,Sapphire Depths,7,0.0300,0.0800,0.2500
+cool,Sapphire Depths,8,0.0100,0.0300,0.1500
+cool,Sapphire Depths,9,0.1200,0.3000,0.7000
+cool,Sapphire Depths,10,0.0600,0.1200,0.3500
+cool,Sapphire Depths,11,0.1500,0.3500,0.8000
+cool,Twilight Forest Path,0,0.0500,0.1000,0.1500
+cool,Twilight Forest Path,1,0.1000,0.2000,0.3000
+cool,Twilight Forest Path,2,0.0000,0.0200,0.0500
+cool,Twilight Forest Path,3,0.2000,0.3000,0.4000
+cool,Twilight Forest Path,4,0.0200,0.0500,0.1000
+cool,Twilight Forest Path,5,0.3000,0.4000,0.5000
+cool,Twilight Forest Path,6,0.0800,0.1500,0.2000
+cool,Twilight Forest Path,7,0.1200,0.2500,0.3500
+cool,Twilight Forest Path,8,0.0000,0.0000,0.0000
+cool,Twilight Forest Path,9,0.2500,0.3500,0.4500
+cool,Twilight Forest Path,10,0.0300,0.0800,0.1200
+cool,Twilight Forest Path,11,0.1800,0.2800,0.3800
+dreamy,Azure Dreamscape,0,0.6000,0.8000,1.0000
+dreamy,Azure Dreamscape,1,0.4000,0.6000,0.9000
+dreamy,Azure Dreamscape,2,0.7500,0.9000,0.9800
+dreamy,Azure Dreamscape,3,0.2000,0.4000,0.8000
+dreamy,Azure Dreamscape,4,0.9000,0.9500,0.9900
+dreamy,Azure Dreamscape,5,0.5000,0.7000,0.9200
+dreamy,Azure Dreamscape,6,0.6500,0.8500,0.9600
+dreamy,Azure Dreamscape,7,0.3000,0.5000,0.8500
+dreamy,Azure Dreamscape,8,0.9800,0.9900,0.9700
+dreamy,Azure Dreamscape,9,0.1000,0.3000,0.7000
+dreamy,Azure Dreamscape,10,0.8000,0.9200,0.9400
+dreamy,Azure Dreamscape,11,0.0000,0.2000,0.6000
+dreamy,Verdant Reverie,0,0.5000,0.8000,0.6000
+dreamy,Verdant Reverie,1,0.3000,0.6000,0.4000
+dreamy,Verdant Reverie,2,0.6500,0.9000,0.7000
+dreamy,Verdant Reverie,3,0.1000,0.4000,0.2000
+dreamy,Verdant Reverie,4,0.8000,0.9500,0.8000
+dreamy,Verdant Reverie,5,0.4000,0.7000,0.5000
+dreamy,Verdant Reverie,6,0.5500,0.8500,0.6500
+dreamy,Verdant Reverie,7,0.2000,0.5000,0.3000
+dreamy,Verdant Reverie,8,0.9000,0.9800,0.8800
+dreamy,Verdant Reverie,9,0.0000,0.3000,0.1000
+dreamy,Verdant Reverie,10,0.7000,0.9200,0.7500
+dreamy,Verdant Reverie,11,0.0500,0.2000,0.0500
+elemental,Glacial Stream,0,0.2000,0.5000,0.7000
+elemental,Glacial Stream,1,0.0000,0.1000,0.2000
+elemental,Glacial Stream,2,0.4000,0.7000,0.9000
+elemental,Glacial Stream,3,0.0500,0.2000,0.3000
+elemental,Glacial Stream,4,0.6000,0.8500,0.9800
+elemental,Glacial Stream,5,0.0000,0.0000,0.0500
+elemental,Glacial Stream,6,0.3000,0.6000,0.8000
+elemental,Glacial Stream,7,0.1000,0.3000,0.4000
+elemental,Glacial Stream,8,0.5000,0.7500,0.9200
+elemental,Glacial Stream,9,0.0200,0.0800,0.1500
+elemental,Glacial Stream,10,0.7000,0.9000,0.9900
+elemental,Glacial Stream,11,0.1500,0.2500,0.3500
+ethereal,Moonlit Lagoon,0,0.0500,0.1500,0.2500
+ethereal,Moonlit Lagoon,1,0.6000,0.7000,0.8500
+ethereal,Moonlit Lagoon,2,0.0000,0.0200,0.0800
+ethereal,Moonlit Lagoon,3,0.8000,0.8500,0.9500
+ethereal,Moonlit Lagoon,4,0.1000,0.2000,0.3000
+ethereal,Moonlit Lagoon,5,0.7000,0.7800,0.9000
+ethereal,Moonlit Lagoon,6,0.0200,0.0800,0.1500
+ethereal,Moonlit Lagoon,7,0.9000,0.9200,0.9800
+ethereal,Moonlit Lagoon,8,0.1500,0.2500,0.3500
+ethereal,Moonlit Lagoon,9,0.5000,0.6000,0.7500
+ethereal,Moonlit Lagoon,10,0.0000,0.0000,0.0100
+ethereal,Moonlit Lagoon,11,0.9500,0.9800,1.0000
+fantasy,Deepwood Sprite,0,0.0000,0.2000,0.0500
+fantasy,Deepwood Sprite,1,0.2000,0.5000,0.3000
+fantasy,Deepwood Sprite,2,0.0000,0.0500,0.0100
+fantasy,Deepwood Sprite,3,0.4000,0.7000,0.5000
+fantasy,Deepwood Sprite,4,0.0200,0.1000,0.0000
+fantasy,Deepwood Sprite,5,0.1000,0.3000,0.1000
+fantasy,Deepwood Sprite,6,0.6000,0.9000,0.7000
+fantasy,Deepwood Sprite,7,0.0000,0.0000,0.0000
+fantasy,Deepwood Sprite,8,0.3000,0.6000,0.4000
+fantasy,Deepwood Sprite,9,0.0100,0.0200,0.0000
+fantasy,Deepwood Sprite,10,0.0500,0.2500,0.0800
+fantasy,Deepwood Sprite,11,0.5000,0.8000,0.6000
+fantasy,Sea Serpent Scales,0,0.0000,0.2000,0.3000
+fantasy,Sea Serpent Scales,1,0.1000,0.4000,0.5000
+fantasy,Sea Serpent Scales,2,0.0000,0.0500,0.1000
+fantasy,Sea Serpent Scales,3,0.2000,0.6000,0.7000
+fantasy,Sea Serpent Scales,4,0.0200,0.1000,0.1500
+fantasy,Sea Serpent Scales,5,0.3000,0.7500,0.8500
+fantasy,Sea Serpent Scales,6,0.0500,0.1500,0.2000
+fantasy,Sea Serpent Scales,7,0.1500,0.5000,0.6000
+fantasy,Sea Serpent Scales,8,0.0000,0.0000,0.0200
+fantasy,Sea Serpent Scales,9,0.2500,0.7000,0.8000
+fantasy,Sea Serpent Scales,10,0.0800,0.2500,0.3500
+fantasy,Sea Serpent Scales,11,0.3500,0.8000,0.9000
+moody,Rainforest Floor Dark,0,0.0100,0.0500,0.0200
+moody,Rainforest Floor Dark,1,0.0500,0.1500,0.0500
+moody,Rainforest Floor Dark,2,0.0000,0.0200,0.0000
+moody,Rainforest Floor Dark,3,0.1000,0.2500,0.0800
+moody,Rainforest Floor Dark,4,0.0000,0.0000,0.0000
+moody,Rainforest Floor Dark,5,0.1500,0.3500,0.1000
+moody,Rainforest Floor Dark,6,0.0200,0.0800,0.0300
+moody,Rainforest Floor Dark,7,0.0800,0.2000,0.0600
+moody,Rainforest Floor Dark,8,0.0000,0.0100,0.0000
+moody,Rainforest Floor Dark,9,0.1200,0.3000,0.0900
+moody,Rainforest Floor Dark,10,0.0300,0.1000,0.0400
+moody,Rainforest Floor Dark,11,0.0600,0.1800,0.0700
+mystical,Azure Orb,0,0.1000,0.3000,0.8000
+mystical,Azure Orb,1,0.0000,0.0500,0.5000
+mystical,Azure Orb,2,0.3000,0.5000,0.9500
+mystical,Azure Orb,3,0.0200,0.1000,0.6000
+mystical,Azure Orb,4,0.5000,0.7000,1.0000
+mystical,Azure Orb,5,0.0000,0.0000,0.3000
+mystical,Azure Orb,6,0.2000,0.4000,0.9000
+mystical,Azure Orb,7,0.0800,0.1500,0.7000
+mystical,Azure Orb,8,0.4000,0.6000,0.9800
+mystical,Azure Orb,9,0.0000,0.0200,0.4000
+mystical,Azure Orb,10,0.6000,0.8000,1.0000
+mystical,Azure Orb,11,0.0100,0.0000,0.2000
+nature,Alpine Lake Mist,0,0.5000,0.6000,0.7000
+nature,Alpine Lake Mist,1,0.3000,0.4000,0.5000
+nature,Alpine Lake Mist,2,0.7000,0.7500,0.8000
+nature,Alpine Lake Mist,3,0.1000,0.2000,0.3000
+nature,Alpine Lake Mist,4,0.8500,0.9000,0.9200
+nature,Alpine Lake Mist,5,0.4000,0.5000,0.6000
+nature,Alpine Lake Mist,6,0.6000,0.6800,0.7500
+nature,Alpine Lake Mist,7,0.2000,0.3000,0.4000
+nature,Alpine Lake Mist,8,0.9000,0.9200,0.9500
+nature,Alpine Lake Mist,9,0.0000,0.1000,0.2000
+nature,Alpine Lake Mist,10,0.7500,0.8000,0.8200
+nature,Alpine Lake Mist,11,0.0500,0.1500,0.2500
+nature,Coastal Fog,0,0.7000,0.7500,0.8000
+nature,Coastal Fog,1,0.5000,0.5500,0.6000
+nature,Coastal Fog,2,0.8500,0.8800,0.9000
+nature,Coastal Fog,3,0.3000,0.3500,0.4000
+nature,Coastal Fog,4,0.9500,0.9600,0.9800
+nature,Coastal Fog,5,0.6000,0.6500,0.7000
+nature,Coastal Fog,6,0.7800,0.8200,0.8500
+nature,Coastal Fog,7,0.4000,0.4500,0.5000
+nature,Coastal Fog,8,0.9000,0.9200,0.9300
+nature,Coastal Fog,9,0.2000,0.2500,0.3000
+nature,Coastal Fog,10,0.9600,0.9700,0.9800
+nature,Coastal Fog,11,0.1000,0.1500,0.2000
+nature,Forest Stream Deep,0,0.0200,0.1000,0.0500
+nature,Forest Stream Deep,1,0.1000,0.3000,0.2000
+nature,Forest Stream Deep,2,0.0000,0.0500,0.0100
+nature,Forest Stream Deep,3,0.2000,0.4000,0.3000
+nature,Forest Stream Deep,4,0.0500,0.1500,0.0800
+nature,Forest Stream Deep,5,0.3000,0.5000,0.4000
+nature,Forest Stream Deep,6,0.0100,0.0200,0.0000
+nature,Forest Stream Deep,7,0.1500,0.3500,0.2500
+nature,Forest Stream Deep,8,0.0800,0.2000,0.1200
+nature,Forest Stream Deep,9,0.2500,0.4500,0.3500
+nature,Forest Stream Deep,10,0.0000,0.0000,0.0000
+nature,Forest Stream Deep,11,0.3500,0.5500,0.4500
+nature,Peacock Feather,0,0.0000,0.2000,0.4000
+nature,Peacock Feather,1,0.1000,0.5000,0.2000
+nature,Peacock Feather,2,0.0000,0.1000,0.1000
+nature,Peacock Feather,3,0.3000,0.7000,0.6000
+nature,Peacock Feather,4,0.0200,0.3000,0.5000
+nature,Peacock Feather,5,0.2000,0.6000,0.3000
+nature,Peacock Feather,6,0.0000,0.0500,0.0200
+nature,Peacock Feather,7,0.4000,0.8000,0.7000
+nature,Peacock Feather,8,0.0800,0.4000,0.6000
+nature,Peacock Feather,9,0.1500,0.5500,0.2500
+nature,Peacock Feather,10,0.0100,0.0200,0.0500
+nature,Peacock Feather,11,0.5000,0.9000,0.8000
+pastelcool,Arctic Fox Fur,0,0.9000,0.9200,0.9500
+pastelcool,Arctic Fox Fur,1,0.8000,0.8200,0.8500
+pastelcool,Arctic Fox Fur,2,0.9500,0.9600,0.9800
+pastelcool,Arctic Fox Fur,3,0.7000,0.7200,0.7500
+pastelcool,Arctic Fox Fur,4,0.9800,0.9900,1.0000
+pastelcool,Arctic Fox Fur,5,0.8500,0.8800,0.9000
+pastelcool,Arctic Fox Fur,6,0.9200,0.9300,0.9600
+pastelcool,Arctic Fox Fur,7,0.7500,0.7800,0.8200
+pastelcool,Arctic Fox Fur,8,0.9600,0.9700,0.9900
+pastelcool,Arctic Fox Fur,9,0.6500,0.6800,0.7200
+pastelcool,Arctic Fox Fur,10,0.9900,0.9950,1.0000
+pastelcool,Arctic Fox Fur,11,0.8800,0.9000,0.9300
+pastelcool,Winter Rose,0,0.9000,0.8000,0.8500
+pastelcool,Winter Rose,1,0.7000,0.6000,0.7000
+pastelcool,Winter Rose,2,0.9500,0.8800,0.9000
+pastelcool,Winter Rose,3,0.5000,0.4000,0.5000
+pastelcool,Winter Rose,4,0.9800,0.9200,0.9400
+pastelcool,Winter Rose,5,0.8000,0.7000,0.7500
+pastelcool,Winter Rose,6,0.9200,0.8500,0.8800
+pastelcool,Winter Rose,7,0.6000,0.5000,0.6000
+pastelcool,Winter Rose,8,0.9600,0.9000,0.9200
+pastelcool,Winter Rose,9,0.4000,0.3000,0.4000
+pastelcool,Winter Rose,10,0.9900,0.9500,0.9600
+pastelcool,Winter Rose,11,0.8500,0.7500,0.8000
+sci-fi,Deep Space Anomaly,0,0.0000,0.0100,0.0200
+sci-fi,Deep Space Anomaly,1,0.0000,0.3000,0.5000
+sci-fi,Deep Space Anomaly,2,0.6000,0.0000,0.4000
+sci-fi,Deep Space Anomaly,3,0.0000,0.0000,0.0000
+sci-fi,Deep Space Anomaly,4,0.1000,0.5000,0.7000
+sci-fi,Deep Space Anomaly,5,0.8000,0.2000,0.6000
+sci-fi,Deep Space Anomaly,6,0.0200,0.0300,0.0500
+sci-fi,Deep Space Anomaly,7,0.0000,0.0500,0.1000
+sci-fi,Deep Space Anomaly,8,0.7000,0.1000,0.5000
+sci-fi,Deep Space Anomaly,9,0.2000,0.7000,0.9000
+sci-fi,Deep Space Anomaly,10,0.0000,0.0000,0.0100
+sci-fi,Deep Space Anomaly,11,0.0300,0.0800,0.1200
+underwater,Bioluminescent Reef,0,0.0000,0.2000,0.4000
+underwater,Bioluminescent Reef,1,0.0000,0.8000,0.7000
+underwater,Bioluminescent Reef,2,0.5000,0.1000,0.3000
+underwater,Bioluminescent Reef,3,0.0000,0.0000,0.0000
+underwater,Bioluminescent Reef,4,0.1000,0.5000,0.6000
+underwater,Bioluminescent Reef,5,0.0000,0.9500,0.8000
+underwater,Bioluminescent Reef,6,0.7000,0.0500,0.2000
+underwater,Bioluminescent Reef,7,0.0200,0.0500,0.1000
+underwater,Bioluminescent Reef,8,0.0000,0.6000,0.5000
+underwater,Bioluminescent Reef,9,0.9000,0.3000,0.5000
+underwater,Bioluminescent Reef,10,0.0000,0.9000,0.9500
+underwater,Bioluminescent Reef,11,0.0100,0.0200,0.0300
+underwater,Mariana Trench,0,0.0000,0.0000,0.0100
+underwater,Mariana Trench,1,0.0000,0.0200,0.0500
+underwater,Mariana Trench,2,0.0000,0.0500,0.1000
+underwater,Mariana Trench,3,0.0100,0.0300,0.0800
+underwater,Mariana Trench,4,0.0000,0.0000,0.0000
+underwater,Mariana Trench,5,0.0200,0.0800,0.1500
+underwater,Mariana Trench,6,0.0000,0.0100,0.0300
+underwater,Mariana Trench,7,0.0300,0.1000,0.2000
+underwater,Mariana Trench,8,0.0000,0.0000,0.0000
+underwater,Mariana Trench,9,0.0100,0.0400,0.0900
+underwater,Mariana Trench,10,0.0200,0.0600,0.1200
+underwater,Mariana Trench,11,0.0400,0.1200,0.2500
+vibrantcool,Arctic Neon,0,0.0000,0.8000,1.0000
+vibrantcool,Arctic Neon,1,0.5000,0.9000,1.0000
+vibrantcool,Arctic Neon,2,0.0000,0.5000,0.7000
+vibrantcool,Arctic Neon,3,0.8000,1.0000,0.9500
+vibrantcool,Arctic Neon,4,0.2000,0.7000,0.9000
+vibrantcool,Arctic Neon,5,0.9500,0.9800,1.0000
+vibrantcool,Arctic Neon,6,0.0000,0.9500,0.8500
+vibrantcool,Arctic Neon,7,0.6000,0.9200,0.9800
+vibrantcool,Arctic Neon,8,0.1000,0.6000,0.8000
+vibrantcool,Arctic Neon,9,0.9000,0.9600,0.9900
+vibrantcool,Arctic Neon,10,0.3000,0.7500,0.9200
+vibrantcool,Arctic Neon,11,0.0000,0.0000,0.0000
+vibrantcool,Glacial Rave,0,0.0000,0.9000,0.9000
+vibrantcool,Glacial Rave,1,0.6000,0.7000,1.0000
+vibrantcool,Glacial Rave,2,0.0000,0.5000,0.6000
+vibrantcool,Glacial Rave,3,0.8000,0.9000,0.9500
+vibrantcool,Glacial Rave,4,0.2000,0.0000,0.4000
+vibrantcool,Glacial Rave,5,0.9000,0.9500,0.9800
+vibrantcool,Glacial Rave,6,0.0000,0.7000,0.8000
+vibrantcool,Glacial Rave,7,0.7000,0.8000,1.0000
+vibrantcool,Glacial Rave,8,0.1000,0.3000,0.5000
+vibrantcool,Glacial Rave,9,0.9500,0.9800,0.9900
+vibrantcool,Glacial Rave,10,0.0000,0.0000,0.0000
+vibrantcool,Glacial Rave,11,0.0000,0.8000,0.9500
